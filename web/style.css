@@ -1,0 +1,9 @@
+.hestiacp-plugin-base {
+    padding: 20px 0;
+}
+
+.hestiacp-plugin-base p {
+    color: #CCC;
+    padding: 14px;
+    background: #333;
+}

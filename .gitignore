@@ -1,0 +1,11 @@
+### Composer
+/composer.phar
+/**/vendor/
+
+### Node/NPM
+/**/node_modules/
+
+### JetBrains
+/.idea/
+
+### Others

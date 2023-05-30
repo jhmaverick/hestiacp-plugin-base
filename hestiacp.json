@@ -1,0 +1,14 @@
+{
+    "name": "hestiacp-plugin-base",
+    "display-name": "HestiaCP Plugin Base",
+    "description": "A base for creating HestiaCP plugins.",
+    "version": "0.0.1",
+    "min-hestia": "1.7.7",
+    "repository": "https://github.com/jhmaverick/hestiacp-plugin-base",
+    "homepage": "https://github.com/jhmaverick/hestiacp-plugin-base#readme",
+    "author": {
+        "name": "Developer",
+        "email": "developer@mail.com",
+        "homepage": "https://github.com/developer/"
+    }
+}
